@@ -12,8 +12,12 @@
 <img src="images/CP2_thumbnail.JPG?raw=true"/>
 
 ---
-[Project 3 Contraceptive Method](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Insurance Report](http://example.com/)
+<img src="images/CP3_thumbnail.jpg?raw=true"/>
+
+---
+[Project 4 Contraceptive Method](http://example.com/)
+<img src="images/CP4_thumbnail.jpg?raw=true"/>
 
 ---
 
