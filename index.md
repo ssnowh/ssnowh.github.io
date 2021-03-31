@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Capstone Projects 
 
-[Project 1 Title](/sample_page)
+[Project 1 Resale Flat Prices](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Suicide Data 2000 - 2016](/pdf/sample_presentation.pdf)
+<img src="images/CP2_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Contraceptive Method](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
