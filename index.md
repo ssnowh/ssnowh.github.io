@@ -4,14 +4,15 @@
 
 ### Capstone Projects 
 
-[Project 1 Resale Flat Prices](/sample_page)
+[Project 1 Resale Flat Prices](https://github.com/ssnowh/capstone-project-one)<!-- (/sample_page) -->
 
 ---
-[Project 2 Suicide Data 2000 - 2016](/pdf/sample_presentation.pdf)
+[Project 2 Suicide Data 2000 - 2016](https://github.com/ssnowh/capstone-project-two)<!-- (/pdf/sample_presentation.pdf) -->
 <img src="images/CP2_thumbnail.JPG?raw=true"/>
 
+
 ---
-[Project 3 Insurance Report](http://example.com/)
+[Project 3 Insurance Report](https://github.com/ssnowh/capstone-project-three)
 <img src="images/CP3_thumbnail.jpg?raw=true"/>
 
 ---
