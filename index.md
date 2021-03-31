@@ -15,7 +15,7 @@
 <img src="images/CP3_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4 Contraceptive Method Choice](/capstone-project-four)
+[Project 4 Contraceptive Method Choice](https://github.com/ssnowh/capstone-project-four)
 <img src="images/CP4_thumbnail.jpg?raw=true"/>
 
 ---
