@@ -5,7 +5,6 @@
 ### Capstone Projects 
 
 [Project 1 Resale Flat Prices](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Suicide Data 2000 - 2016](/pdf/sample_presentation.pdf)
