@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Suicide Data 2000 - 2016](/pdf/sample_presentation.pdf)
-<img src="images/CP2_thumbnail.jpg?raw=true"/>
+<img src="images/CP2_thumbnail.JPG?raw=true"/>
 
 ---
 [Project 3 Contraceptive Method](http://example.com/)
