@@ -21,7 +21,7 @@
 
 ---
 
-### Category Name 2
+### Codecademy Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
