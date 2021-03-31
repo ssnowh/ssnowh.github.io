@@ -16,7 +16,7 @@
 <img src="images/CP3_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4 Contraceptive Method](http://example.com/)
+[Project 4 Contraceptive Method Choice](http://example.com/)
 <img src="images/CP4_thumbnail.jpg?raw=true"/>
 
 ---
